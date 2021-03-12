@@ -64,7 +64,7 @@
     "pretty-format": "^19.0.0",
     "prop-types": "^15.5.8",
     "react-codemirror": "^0.3.0",
-    "react-dev-utils": "^0.5.2",
+    "react-dev-utils": "^11.0.4",
     "react-docgen": "^2.14.1",
     "react-docgen-displayname-handler": "^1.0.0",
     "react-group": "^1.0.4",
